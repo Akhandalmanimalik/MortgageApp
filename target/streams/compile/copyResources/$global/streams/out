@@ -1,0 +1,9 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/manoj/projects/Testing/formsPlayApp/conf/config11.properties,/home/manoj/projects/Testing/formsPlayApp/target/scala-2.11/classes/config11.properties)[0m
+[0m[[0mdebug[0m] [0m	(/home/manoj/projects/Testing/formsPlayApp/conf/logback.xml,/home/manoj/projects/Testing/formsPlayApp/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/manoj/projects/Testing/formsPlayApp/conf/applicant.properties,/home/manoj/projects/Testing/formsPlayApp/target/scala-2.11/classes/applicant.properties)[0m
+[0m[[0mdebug[0m] [0m	(/home/manoj/projects/Testing/formsPlayApp/conf/visdomReferral.properties,/home/manoj/projects/Testing/formsPlayApp/target/scala-2.11/classes/visdomReferral.properties)[0m
+[0m[[0mdebug[0m] [0m	(/home/manoj/projects/Testing/formsPlayApp/conf/hibernate.cfg.xml,/home/manoj/projects/Testing/formsPlayApp/target/scala-2.11/classes/hibernate.cfg.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/manoj/projects/Testing/formsPlayApp/conf/routes,/home/manoj/projects/Testing/formsPlayApp/target/scala-2.11/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/home/manoj/projects/Testing/formsPlayApp/conf/config.properties,/home/manoj/projects/Testing/formsPlayApp/target/scala-2.11/classes/config.properties)[0m
+[0m[[0mdebug[0m] [0m	(/home/manoj/projects/Testing/formsPlayApp/conf/application.conf,/home/manoj/projects/Testing/formsPlayApp/target/scala-2.11/classes/application.conf)[0m
