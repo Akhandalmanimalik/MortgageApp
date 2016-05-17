@@ -73,7 +73,7 @@ import com.syml.mortgageapplication.impl.SupplementaryIncomeAService;
 public class Mortgage extends Controller {
 
 	public static Result mortgageApplication() {
-		Logger.info("Inside mortgageApplication Method  ");
+		
 		Session session = Http.Context.current().session();
 		MortgageApplicationPageService maoPageService = new MortgageApplicationPageService();
 		Opportunity opportunity = new Opportunity();
@@ -210,7 +210,7 @@ public class Mortgage extends Controller {
 	public static Result existingUser(int progressStatus, boolean isMobile,
 			String mlsListed) {
 		
-		Logger.info("Inside (.) existingUser of Mortgage Controller.");
+		//Logger.info("Inside (.) existingUser of Mortgage Controller.");
 		Session session = Http.Context.current().session();
 		ApplicantAddressParameter7 appAddressParam = null;
 		PersonalInfo personalInfo = null;
@@ -347,7 +347,7 @@ public class Mortgage extends Controller {
 	}
 
 	public static Result mortgagePage1a() {
-
+	
 		Logger.debug("Inside (.) mortgagePage1a Controller Method ");
 		CouchbaseServiceHelper couHelper = new CouchbaseServiceHelper();
 		MortgageApplicationPageService mService = new MortgageApplicationPageService();

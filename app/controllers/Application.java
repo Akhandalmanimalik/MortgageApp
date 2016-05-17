@@ -41,23 +41,9 @@ public class Application extends Controller {
 //		return ok(mortgagePage7b.render(new CoApplicantAddressParameter7()));
 		/*return ok(mortgagePage7Address.render("yes", "xsxx", "yyy",new
 		   ApplicantAddressParameter7(),new CoApplicantAddressParameter7()));*/
-		/*
-		 * return ok(mortgagePage8.render("",new EmployeIncomeTypeParam(),new
-		 * SelfEmployeIncomeTypeParam(),new PensionIncomeTypeParam(), new
-		 * InvestmentsIncomeTypeParam(),new MaternityIncomeTypeParam(),new
-		 * VehicleAllowIncomeTypeParam(), new LivingAllowIncomeTypeParam(),new
-		 * CommissionIncomeTypeParam(),new BonusIncomeTypeParam(),new
-		 * OtherIncomeTypeParam(),"yes"));
-		 */
+	 
 
-		/*return ok(newmortgagePage88.render("", new EmployeIncomeTypeParam(),
-				new SelfEmployeIncomeTypeParam(), new PensionIncomeTypeParam(),
-				new InvestmentsIncomeTypeParam(),
-				new MaternityIncomeTypeParam(),
-				new VehicleAllowIncomeTypeParam(),
-				new LivingAllowIncomeTypeParam(),
-				new CommissionIncomeTypeParam(), new BonusIncomeTypeParam(),
-				new OtherIncomeTypeParam(), "yes"));*/
+		 
 		 return ok(supplementary_income.render(new Applicant()));
 //		 return ok(mortgagePage8Duplicate.render("additionalApplicant",new EmployeIncomeTypeParam(),new SelfEmployeIncomeTypeParam(),new PensionIncomeTypeParam(),new InvestmentsIncomeTypeParam(),new MaternityIncomeTypeParam(),new VehicleAllowIncomeTypeParam(),new LivingAllowIncomeTypeParam(),new CommissionIncomeTypeParam(),new BonusIncomeTypeParam(),new OtherIncomeTypeParam(),"applicantName"));
 		
